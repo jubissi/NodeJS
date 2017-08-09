@@ -1,0 +1,21 @@
+{
+  "name": "pagina",
+  "version": "1.0.0",
+  "description": "Brincando com NodeJS",
+  "main": "pagina.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "aula",
+    "fiap"
+  ],
+  "author": "Gustavo Torrente",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.3",
+    "msql": "^1.0.3"
+  }
+}
